@@ -3,6 +3,8 @@ How to setup your Raspberry pi and/or Debian easily with bash script.
 
 First you want to do these commands.
 
+sudo apt-get install git
+
 git clone https://github.com/deadspace92/xmrig-setup.git
 
 cd xmrig-setup
