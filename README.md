@@ -1,5 +1,5 @@
 # xmrig-setup
-How to setup your Raspberry pi and/or Debian easily with bash script.
+How to setup your Raspberry pi easily with bash script.
 
 First you want to do these commands.
 
