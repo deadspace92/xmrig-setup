@@ -1,0 +1,1 @@
+./xmrig -o gulf.moneroocean.stream:10128 -u <wallet address> -pi1
