@@ -15,7 +15,7 @@ chmod +x xmrig-setup.sh
 
 chmod +x xmrig-start.sh
 
-Now you want to replace the <your wallet> with your crypto wallet and/or the mining pool you want.
+Now you want to replace the "<your wallet>" with your crypto wallet and/or the mining pool you want.
 
 Next do this.
 
