@@ -15,7 +15,7 @@ chmod +x xmrig-setup.sh
 
 chmod +x xmrig-start.sh
 
-Now you want to replace the (your wallet) with your crypto wallet and/or the mining pool you want.
+Now you want to replace the (your wallet) with your crypto wallet and the (mining pool) with the mining pool you want.
 
 Next do this.
 
@@ -26,3 +26,5 @@ Then your good to go!
 PS. Your going to need the arm64 version of raspbian (aka raspberry pi os).
   
 You can Download it at https://downloads.raspberrypi.org/raspios_lite_arm64/images/
+
+I suggest this mining pool: 
