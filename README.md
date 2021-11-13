@@ -18,3 +18,5 @@ Next do this.
 ./xmrig-start.sh
 
 Then your good to go!
+
+  PS. Your going to need the arm64 version of raspbian (aka raspberry pi os).
