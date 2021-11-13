@@ -1,1 +1,1 @@
-./xmrig -o gulf.moneroocean.stream:10128 -u <wallet address> -pi1
+./xmrig -o (mining pool) -u (wallet address) -pi1
